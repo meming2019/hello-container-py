@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello from a GCP pull request!!!!!! 2"
+    return "Hello therer from a GCP pull request!!!!!!"
 #reusing code 
 
 
